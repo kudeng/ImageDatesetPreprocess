@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'DLPreProcWeb.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'DLPP',
-        'USER': 'root',
-        'PASSWORD': 'NbaScouter123@',
-        'HOST': '39.104.88.90',
-        'PORT': '3306',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
